@@ -17,7 +17,10 @@ Data Visualization : Plotly, Seaborn, Matplotlib
 
 ## Key Findings
 
-#### Most used device for purchase : Most of the purchase has done through mobile.
-
+ 1. Most of the purchase has done through mobile.
+ 2. Most purchases are done by Male.
+ 3. Delhi have more purchases than any other locations.
+ 4. Percentage of purcahse compared to items added to cart is low.
+ 5. Age wise, below aged customers(below 
 
 
