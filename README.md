@@ -17,4 +17,7 @@ Data Visualization : Plotly, Seaborn, Matplotlib
 
 ## Key Findings
 
-#### Most
+#### Most used device for purchase : Most of the purchase has done through mobile.
+
+
+
