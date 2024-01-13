@@ -21,6 +21,8 @@ Data Visualization : Plotly, Seaborn, Matplotlib
  2. Most purchases are done by Male.
  3. Delhi have more purchases than any other locations.
  4. Percentage of purcahse compared to items added to cart is low.
- 5. Age wise, below aged customers(below 
+ 5. Age wise : below aged customers(below 21) used mobile for purchasing more times and Delhi is the location most purcahses done.
+               mid aged customers (between 21 and 29) used tablet for purchasing more times and Kolkata is the location most purcahses done.
+               above aged customers (above 29) used tablet for purchasing more times and Kolkata and Delhi are the location most purcahses done.
 
 
