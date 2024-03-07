@@ -8,7 +8,7 @@ Customer Behavior Analysis is a process that involves examining and understandin
 
 ## Project Components
 
-Data Souce : CSV file
+Data Source : CSV file
 
 Notebook : Jupyter Notebook
 
