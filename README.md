@@ -17,12 +17,6 @@ Data Visualization : Plotly, Seaborn, Matplotlib
 
 ## Key Findings
 
- 1. Most of the purchase has done through mobile.
- 2. Most purchases are done by Male.
- 3. Delhi have more purchases than any other locations.
- 4. Percentage of purcahse compared to items added to cart is low.
- 5. Age wise : below aged customers(below 21) used mobile for purchasing more times and Delhi is the location most purcahses done.
-               mid aged customers (between 21 and 29) used tablet for purchasing more times and Kolkata is the location most purcahses done.
-               above aged customers (above 29) used tablet for purchasing more times and Kolkata and Delhi are the location most purcahses done.
+The data analysis reveals that business has a significant customer base in Maharashtra, mainly servers retailers, fulfills orders through Amazon, experiences high demand for T-shirts and sees M-size as the preferred choice among buyers.
 
 
